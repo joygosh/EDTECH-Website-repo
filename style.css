@@ -1,0 +1,114 @@
+.w-m {
+    width: 50%;
+    margin-left: 25%;
+}
+
+/* footer */
+.mt-bg {
+    background-color: rgb(18, 18, 18);
+    color: antiquewhite;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+/* company */
+.mb-mt {
+    margin-bottom: 8%;
+}
+
+/* company-text */
+.size-mt {
+    margin-top: 130px;
+    font-size: 53px;
+    font-weight: bold;
+    color: rgb(20, 20, 20);
+}
+
+/* .acording text */
+.fs {
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 26px;
+    margin-top: 180px;
+}
+
+.mb {
+    margin-bottom: 0px;
+}
+
+
+.mb-0 {
+    margin-bottom: 0px;
+}
+
+.mb-21 {
+    margin-bottom: 21px;
+    margin-top: 74px;
+    font-size: 48px;
+    font-weight: 700px;
+}
+
+.bold {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 125px;
+}
+
+.mt-125 {
+    margin-top: 125px;
+}
+
+.margin-top {
+    margin-top: 120px;
+}
+
+.margin-topp {
+    margin-top: 80px;
+}
+
+.font-size {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.marzin {
+    margin-top: 119px;
+    margin-bottom: 50px;
+}
+
+.sizze {
+    font-size: 75px;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.hight {
+    margin-bottom: 100px;
+}
+
+.bg-info-color {
+    background-color: rgb(197, 184, 184);
+}
+
+.bg-primary-color {
+    background-color: dodgerblue;
+}
+
+.text-primary-color {
+    color: dodgerblue;
+}
+
+
+.text-success-color {
+    color: brown;
+}
+
+.btn-primary-color {
+    background-color: dodgerblue;
+
+}
+
+.text-success-color {
+    color: rgb(68, 64, 64);
+}
